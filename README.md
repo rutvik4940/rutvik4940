@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Rutvik Matholiya! <img align="right" alt="Coding" width="250" src="https://github.com/user-attachments/assets/cf9f33d6-4a07-4b59-a3e2-b17700d55fbc">
+# 👋 Hi, I'm Rutvik Matholiya! <img align="right" alt="Coding" width="250" src="">
 
 ### 🌍 About Me
 I'm a passionate Flutter developer from India, with a focus on creating innovative and user-friendly mobile applications. My journey in coding is driven by a love for solving complex problems and building tools that make life easier.
